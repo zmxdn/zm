@@ -7,6 +7,6 @@
 
 
 
- [![My Skills ](https://skillicons.dev/icons?i=react,js,html,css,git,arduino,py,nodejs,unity)](https://skillicons.dev)
+ [![My Skills ](https://skillicons.dev/icons?i=react,js,html,css,git,py,nodejs,unity)](https://skillicons.dev)
 ## GET in touch
 [instargram](https://www.instagram.com/naruaichai.jsx/)
